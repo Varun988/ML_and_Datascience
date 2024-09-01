@@ -1,5 +1,5 @@
 # MachineLearning And DataScience
-These are the ML and DataScience Projects I have worked .These are self learning experince
+
 Look at Different branches present
 Branches are created for each Project.
 Bangalore_home_prices-https://github.com/Varun988/ML_and_Datascience/tree/Bangalore_Home_Prices
