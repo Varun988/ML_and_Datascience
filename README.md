@@ -1,2 +1,2 @@
-# DataScience
-My Data Science Projects
+# ML
+My ML/Data Science Projects
