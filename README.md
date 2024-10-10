@@ -1,12 +1,1 @@
-# MachineLearning And DataScience
-
-Look at Different branches present
-Branches are created for each Project.
-Bangalore_home_prices-https://github.com/Varun988/ML_and_Datascience/tree/Bangalore_Home_Prices
-Car_Price_Prediction-https://github.com/Varun988/ML_and_Datascience/tree/Car_Price_prediction
-HR_employee_attrition-https://github.com/Varun988/ML_and_Datascience/tree/HR_employee_attrition
-Loan_Prediction-https://github.com/Varun988/ML_and_Datascience/tree/Loan_Prediction
-Mushroom_Prediction-https://github.com/Varun988/ML_and_Datascience/tree/Mushroom_Prediction
-News_Classifier-https://github.com/Varun988/ML_and_Datascience/tree/News_Classifier
-
-
+This Dataset Contains Dummy data of 5000 Employees of an organization, where names and addresses used are based on random string format beside that all other information is derived and created using specific formulas for calculation like HRA,DA,PF depending on which gross salary is computed. Other organizational parameters like department, Position, Salary Considering Experience and Level, Date of joining and Years of Experience counted based on age considering. maintaining rule like no one joined the company before the age of 21 years along with that years of experience in current organization calculated. some personal factors like marital status, number of dependents, insurance taken or not ?, besides that some other factors have been assured while the creation of dataset like no gender biasness or any other kind of discriminative criteria
