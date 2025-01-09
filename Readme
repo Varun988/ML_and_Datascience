@@ -1,0 +1,16 @@
+This Streamlit application allows users to upload a CSV dataset, perform data cleaning, and visualize key insights such as correlation, outliers, and skewness. The user can select a specified number of rows from the dataset, with an option to sample up to 40% of the data by default.
+
+Key features of the application include:
+
+File Upload: Users can upload their dataset (CSV file).
+Row Selection: Users can choose the number of rows to sample from the dataset.
+Data Cleaning:
+Missing numerical values are imputed using the median.
+Missing categorical values are imputed using the most frequent value.
+Categorical columns are encoded using label encoding.
+Data Visualizations:
+Correlation Matrix: A heatmap to explore relationships between numerical features.
+Outlier Detection: Identification of outliers using Z-scores and visualization through boxplots.
+Skewness Analysis: Display of skewness values for numerical features.
+Model Training: Users can select features and target columns, then train and evaluate models using LazyClassifier. It automatically fits multiple classification models and displays their accuracy scores.
+This application is designed for users who want to quickly clean and analyze their dataset, visualize key data characteristics, and train machine learning models for classification tasks.
