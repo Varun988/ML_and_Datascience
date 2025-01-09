@@ -10,3 +10,4 @@ Mushroom_Prediction-https://github.com/Varun988/ML_and_Datascience/tree/Mushroom
 News_Classifier-https://github.com/Varun988/ML_and_Datascience/tree/News_Classifier
 ai_job_market_insights (EDA) -https://github.com/Varun988/ML_and_Datascience/tree/ai_job_market_insights
 InsurancePredict_Employee_Details_Dataset- -https://github.com/Varun988/ML_and_Datascience/tree/InsurancePredict_Employee_Details_Dataset
+Heart attack prediction -https://github.com/Varun988/ML_and_Datascience/tree/HeartAttackPrediction
